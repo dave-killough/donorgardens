@@ -12,3 +12,7 @@ git push --set-upstream origin master
 
 git pull
 git push
+
+git push was causing an error, the following credential manager fixed it. 
+https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/tag/v1.14.0
+
