@@ -1,0 +1,11 @@
+{
+  "name": "donorgardens",
+  "version": "1.0.0",
+  "description": "Nonprofit Data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "dave killough",
+  "license": "ISC"
+}
