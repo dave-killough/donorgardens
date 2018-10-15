@@ -1,0 +1,14 @@
+
+Nodejs to heroku via github 
+https://medium.freecodecamp.org/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe
+
+npm init , take defaults.. add start node index
+
+git init
+git add . 
+git commit -m "create node app" 
+git remote add origin https://github.com/dave-killough/donorgardens.git
+git push --set-upstream origin master  
+
+git pull
+git push
