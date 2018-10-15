@@ -19,3 +19,6 @@ https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/tag/v1.
 
 setting up domains 
 https://codecrux.com/blog/2017/how-to-configure-godaddy-domain-on-heroku.html
+
+add a database for the app: 
+heroku addons:create heroku-postgresql --app donorgardens --name donorgardens-db
